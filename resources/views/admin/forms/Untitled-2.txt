@@ -1,0 +1,1 @@
+[{"fieldname":"Full name","fieldtype":"text","required":"1","formenable":"1","show_response":"1"},{"fieldname":"Email","fieldtype":"text","required":"1","formenable":"1","show_response":"1"},{"fieldname":"Phone number","fieldtype":"text","required":"0","formenable":"1","show_response":"1"}]
